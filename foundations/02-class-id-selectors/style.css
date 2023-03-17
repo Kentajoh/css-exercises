@@ -1,0 +1,18 @@
+.class {
+    font-family: "DejavuSans", sans-serif;
+    background-color: lightpink;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#anotherid {
+    background-color: lightgreen;
+    font-weight: bold;
+}
